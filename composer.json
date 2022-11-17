@@ -15,6 +15,5 @@
         }
     },
     "require": {
-        "illuminate/support": "~5"
     }
 }
